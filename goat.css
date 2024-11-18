@@ -1,0 +1,312 @@
+
+@font-face {
+    font-family: milkynice;
+    src: url(MilkyNice.ttf);
+}
+@font-face {
+    font-family: cheri;
+    src: url(CHERI___.TTF);
+}
+@font-face {
+    font-family: creamy;
+    src: url(Super\ Creamy\ Personal\ Use.ttf);
+}
+
+html{
+    cursor: url(552240b8102e12ebc7b911445a178dc8-removebg-preview\ \(1\).png) 12 12, auto;
+}
+#favs:hover{
+    cursor: url(cursor2.png) 12 12, auto;
+}
+#socmed:hover{
+    cursor: url(cursor2.png) 12 12, auto;
+}
+#byf:hover{
+    cursor: url(cursor2.png) 12 12, auto;
+}
+#homepage:hover{
+    cursor: url(cursor2.png) 12 12, auto;
+}
+#spotify2:hover{
+    cursor: url(cursor2.png) 12 12, auto;
+}
+
+#name{
+    font-size: 25px;
+    font-family: milkynice;
+color: #cfd5d5;
+margin: 0;
+letter-spacing: 4px;
+}
+#prns{
+    font-size: 18px;
+font-family: milkynice;
+color: #cfd5d5;
+margin: 15px;
+line-height: 20px;
+letter-spacing: 2px;
+}
+#divider{
+    margin:10px;
+    line-height: 10px;
+    color: #cfd5d5;
+    font-family: milkynice;
+}
+
+
+
+#yes{
+    font-family: milkynice;
+    margin:0;
+    padding:0;
+    line-height: 15px;
+letter-spacing: 2px;
+font-size: 18px;
+color: #cfd5d5;
+}
+#border{
+    border: none;
+    height:2px;
+    width:300px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#bdayage{
+    font-family: milkynice;
+    font-size: 18px;
+    letter-spacing: 2px;
+color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+display: inline;
+}
+#any{
+    display:table;
+    margin: auto;
+}
+#prns{
+    display: inline;
+}
+.any{
+    display: inline;
+    color: #ececec;
+    font-size: 18px;
+    font-family: milkynice;
+    letter-spacing: 2px;
+}
+#ay{
+    display: inline;
+    font-size: 18px;
+    font-family: milkynice;
+    color: #cfd5d5;
+
+}
+#mbti{
+    font-size: 18px;
+font-family: milkynice;
+letter-spacing: 2px;
+color: #cfd5d5;
+}
+#border2{
+    border: none;
+    height:2px;
+    width:300px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+
+#favs{
+    font-size: 18px;
+    font-family: milkynice;
+letter-spacing: 2px;
+color: #cfd5d5;
+}
+#socmed{
+    font-size: 18px;
+    font-family: milkynice;
+letter-spacing: 2px;
+color: #cfd5d5;
+}
+#byf{
+    font-size: 18px;
+    font-family: milkynice;
+letter-spacing: 2px;
+color: #cfd5d5;
+}
+#homepage{
+    font-size: 18px;
+    font-family: milkynice;
+letter-spacing: 2px;
+color: #cfd5d5;
+}
+#border3{
+    margin:10px;
+    line-height: 10px;
+    color: #cfd5d5;
+    font-family: milkynice;
+}
+#socmed2{
+    font-size: 13px;
+    font-family: milkynice;
+    letter-spacing: 2px;
+    color: #cfd5d5;
+}
+#border4{
+    border: none;
+    height:2px;
+    width:300px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#spotify2{
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+}
+#symbol{
+    color: #fef5f8;
+    text-shadow: 0px 0px 3px #a5aaaa;
+    display: inline-block;
+    margin: 0;
+    line-height: 0;
+}
+#insta{
+    display: inline-block;
+    margin: 0;
+}
+#border5{
+    border: none;
+    height:2px;
+    width:300px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#border6{
+    border: none;
+    height:2px;
+    width:300px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#byf2{
+    font-size: 13px;
+    font-family: milkynice;
+    letter-spacing: 2px;
+    color: #cfd5d5;
+}
+#kaomoji2{
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+}
+#dni2{
+    display: inline-block;
+    margin: 0;
+
+}
+#above{
+    display: inline-block;
+    color: #b8bdbd;
+    margin: 0;
+}
+#byf3{
+    margin: 0;
+    display: inline-block;
+}
+#symbol3{
+display: inline-block;
+color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+margin: 0;
+}
+#favs3{
+    display: inline-block;
+    margin: 0;
+}
+#heart{
+    display: inline-block;
+}
+#favs2{
+    font-size: 13px;
+    font-family: milkynice;
+    letter-spacing: 2px;
+    color: #cfd5d5;
+}
+#heart{
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+margin: 0;
+line-height: 0;
+}
+#smallborder{
+    border: none;
+    height:2px;
+    width:150px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#games{
+    display: inline-block;
+    margin: 0;
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+}
+#hobby{
+    display: inline-block;
+    margin: 0;
+}
+#smallborder2{
+    border: none;
+    height:2px;
+    width:150px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#smallborder3{
+    border: none;
+    height:2px;
+    width:150px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#artists{
+display: inline-block;
+margin: 0;
+line-height: 0;
+}
+#symbols{
+    display: inline-block;
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+margin: 0;
+line-height: 0;
+}
+#kaomoji{
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+}
+#kaomoji3{
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+}
