@@ -310,3 +310,25 @@ text-shadow: 0px 0px 3px #a5aaaa;
     color: #fef5f8;
 text-shadow: 0px 0px 3px #a5aaaa;
 }
+#smallborder4{
+    border: none;
+    height:2px;
+    width:150px; 
+    border-width: 5px;
+    color:#e0e6e6;background-color: #e0e6e6;
+    text-align: center;
+    margin:15px;
+line-height: 10px;
+}
+#heart2{
+    color: #fef5f8;
+text-shadow: 0px 0px 3px #a5aaaa;
+display: inline-block;
+margin: 0;
+line-height: 0;
+}
+#favppl{
+    display: inline-block;
+    margin: 0;
+line-height: 0;
+}
